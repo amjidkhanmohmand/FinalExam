@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    android:title="Post an Ads"
+    android:id="@+id/item1"
+    android:icon="@drawable/ic_baseline_video_library_24"/>
+
+
+
+    <item
+        android:title="Profile"
+        android:id="@+id/item2"
+        android:icon="@drawable/ic_baseline_supervised_user_circle_24"/>
+
+
+    <item
+        android:title="Your Ads"
+        android:id="@+id/item3"
+        android:icon="@drawable/ic_baseline_tv_24"/>
+
+
+    <item
+        android:title="Order"
+        android:id="@+id/item4"
+        android:icon="@drawable/ic_baseline_add_shopping_cart_24"/>
+
+
+
+
+</menu>
